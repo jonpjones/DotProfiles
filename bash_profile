@@ -6,7 +6,7 @@ alias ga='git add'
 alias gaa='git add .'
 alias gc='git commit'
 alias gs='git status'
-alias gcm='git commit -message'
+alias gcm='git commit --message'
 alias gco='git checkout'
 
 export PS1="________\n|\W \h \n\[\e[91m\]\[\e[1m\]\t\[\e[0m\] ==>"
